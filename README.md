@@ -12,3 +12,9 @@ A simple React + TypeScript + Vite application that displays token holdings usin
 - `src/utils/index.ts` - Utility functions for formatting and data handling.
 - `src/styles/TokenCard.css` - Component-specific styles for token cards.
 - `src/styles/TokenHoldings.css` - Styles for the holdings list.
+
+## How to run
+
+1. Install dependencies: `npm install`
+2. Start development: `npm run dev`
+3. Open the app in the browser at the local URL shown by Vite.
