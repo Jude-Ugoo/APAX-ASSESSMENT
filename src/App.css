@@ -1,0 +1,12 @@
+.App {
+	min-height: 100vh;
+	background: #0f172a;
+	color: #f8fafc;
+}
+
+body {
+	margin: 0;
+	background: #0f172a;
+	color: #f8fafc;
+	font-family: system-ui, sans-serif;
+}

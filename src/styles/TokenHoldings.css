@@ -1,0 +1,31 @@
+.container {
+	font-family: system-ui, sans-serif;
+	padding: 2rem;
+	max-width: 800px;
+	margin: 0 auto;
+	color: #f8fafc;
+}
+
+.container_header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1.5rem;
+}
+
+.container_title {
+	font-size: 22px;
+	font-weight: 500;
+	margin: 0;
+}
+
+.container_total {
+	font-size: 13px;
+	color: #d1d5db;
+}
+
+.container_grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 12px;
+}
